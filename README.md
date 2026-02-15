@@ -11,5 +11,5 @@
 ## About me
 
 <p>
-I am a Full-Stack TypeScript Developer (NestJS + ReactJS) focused on building fast, scalable, and well-structured applications. Passionate about backend development, real-time features, and clean architecture.
+I am a Backend Developer ( NestJS ) focused on building fast, scalable, and well-structured applications. Passionate about backend development, real-time features, and clean architecture.
 </p>
