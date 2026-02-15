@@ -1,5 +1,3 @@
-<img src="images/github cover.svg"/>
-
 ### Backend
 
 <img src="images/backend_tools.svg"/>
